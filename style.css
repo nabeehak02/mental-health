@@ -1,0 +1,40 @@
+.navbar-custom-bg {
+  background-color:#68DC42;
+}
+
+.home-title {
+  margin-left: 5%;
+  margin-top: 16px;
+  margin-bottom: 32px;
+}
+.bg-colour {
+  background-color:#F2FBEF;
+}
+.spacing {
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.main-page-content {
+  margin-bottom: 50px;
+}
+
+iframe {
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+.subheading {
+  margin-left: 10%;
+  margin-top: 16px;
+}
+
+.center-picture {
+  margin-left: 35%;
+  display: block;
+}
+
+.center-depression-picture {
+  margin-left: 25%;
+  width: 50%;
+  height: 50%;
+}
